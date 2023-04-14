@@ -1,0 +1,20 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+ } 
+
+div{
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    font-size: 4em;
+    background-color: #e9edc9;
+    color: #283618;
+    padding: 4px 6px;
+    border-radius: 50pc;
+}
+
